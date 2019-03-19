@@ -1,0 +1,394 @@
+{
+    "rating": {
+        "max": 10,
+        "average": 6.3,
+        "stars": "35",
+        "min": 0
+    },
+    "reviews_count": 7,
+    "wish_count": 518,
+    "douban_site": "",
+    "year": "2019",
+    "images": {
+        "small": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2545880275.jpg",
+        "large": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2545880275.jpg",
+        "medium": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2545880275.jpg"
+    },
+    "alt": "https:\/\/movie.douban.com\/subject\/30412189\/",
+    "id": "30412189",
+    "mobile_url": "https:\/\/movie.douban.com\/subject\/30412189\/mobile",
+    "title": "\u7f57\u5e03\u5965\u7279\u66fc\u5267\u573a\u7248\uff1a\u51b3\u5b9a\u4e86\uff01\u7f81\u7eca\u7684\u6c34\u6676",
+    "do_count": null,
+    "share_url": "http:\/\/m.douban.com\/movie\/subject\/30412189",
+    "seasons_count": null,
+    "schedule_url": "",
+    "episodes_count": null,
+    "countries": [
+        "\u65e5\u672c"
+    ],
+    "genres": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u52a8\u753b"
+    ],
+    "collect_count": 191,
+    "casts": [
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1383490\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1509611822.04.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1509611822.04.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1509611822.04.jpg"
+            },
+            "name": "\u5e73\u7530\u96c4\u4e5f",
+            "id": "1383490"
+        },
+        {
+            "alt": null,
+            "avatars": null,
+            "name": "\u5c0f\u6c60\u4eae\u4ecb",
+            "id": null
+        },
+        {
+            "alt": null,
+            "avatars": null,
+            "name": "\u5176\u539f\u6709\u6c99",
+            "id": null
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1001940\/",
+            "avatars": {
+                "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5199.jpg",
+                "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5199.jpg",
+                "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5199.jpg"
+            },
+            "name": "\u771f\u9505\u85b0",
+            "id": "1001940"
+        }
+    ],
+    "current_season": null,
+    "original_title": "\u5287\u5834\u7248 \u30a6\u30eb\u30c8\u30e9\u30de\u30f3R\/B \u30bb\u30ec\u30af\u30c8\uff01\u7d46\u306e\u30af\u30ea\u30b9\u30bf\u30eb",
+    "summary": "\u51d1\u5bb6\u751f\u6d3b\u7684\u7eeb\u9999\u5e02\u5df2\u7ecf\u6709\u4e00\u5e74\u4e0d\u51fa\u73b0\u602a\u517d\u4e86\u3002\n\u51d1\u5bb6\u4e00\u76f4\u8fc7\u7740\u5b89\u7a33\u5e73\u9759\u7684\u65e5\u5b50\uff0c\u76f8\u6bd4\u4e00\u6b65\u6b65\u9760\u8fd1\u81ea\u5df1\u68a6\u60f3\u7684\u5f1f\u5f1f\u52c7\u6d77\u548c\u59b9\u59b9\u671d\u9633\uff0c\u54e5\u54e5\u6d3b\u6d77\u9677\u5165\u4e86\u5bf9\u672a\u6765\u7684\u56f0\u60d1\u3002\u4e8e\u662f\uff0c\u6d3b\u6d77\u60f3\u89c1\u4e00\u89c1\u81ea\u5df1\u9ad8\u4e2d\u65f6\u4ee3\u7684\u631a\u53cb\uff0c\u66fe\u7ecf\u7acb\u5fd7\u6210\u4e3a\u6e38\u620f\u5236\u4f5c\u8005\u7684\u6237\u4e95\u3002\u4f46\u8fd9\u4f4d\u670b\u53cb\u5374\u4e5f\u662f\u8f9e\u4e86\u5de5\u4f5c\u5b85\u5728\u5bb6\u91cc\u7684\u72b6\u6001\uff0c\u8fd9\u4f7f\u6d3b\u6d77\u6df1\u53d7\u6253\u51fb\u3002\n\u8c1c\u4e4b\u5b58\u5728\u7684\u6258\u96f7\u57fa\u4e9a\u501f\u7740\u4e8c\u4eba\u7684\u8ff7\u832b\u7528\u90aa\u6076\u7684\u529b\u91cf\u5165\u4fb5\u4e86\u4e24\u4e2a\u4eba\u5c01\u95ed\u7684\u5185\u5fc3\u3002\u53d7\u5230\u5f71\u54cd\u7684\u6d3b\u6d77\u79bb\u5f00\u4e86\u5730\u7403\u5411\u7740\u602a\u517d\u4eec\u5c45\u4f4f\u7684\u9065\u8fdc\u661f\u7403\u98de\u53bb\u4e86\u3002\n\u4e3a\u4e86\u963b\u6b62\u968f\u540e\u51fa\u73b0\u5728\u5730\u7403\u7684\u602a\u517d\u9ed1\u8727\uff0c\u52c7\u6d77\u548c\u4ece\u53e6\u4e00\u4e2a\u4e16\u754c\u5230\u6765\u7684\u5c0f\u9646\u5206\u522b\u53d8\u8eab\u6210\u4e86\u5e03\u9c81\u5965\u7279\u66fc\u548c\u6377\u5fb7\u5965\u7279\u66fc\u8fce\u51fb\u3002\n\u6700\u7ec8\u5bb6\u65cf\u80fd\u5426\u548c\u7766\u5982\u521d\uff0c\u800c\u8fd9\u4e2a\u6258\u96f7\u57fa\u4e9a\u53c8\u662f\u4f55\u65b9\u795e\u5723\uff0c\u76ee\u7684\u4e3a\u4f55\u5462\uff01\uff1f\n\u73b0\u5728\u8ba9\u6211\u4eec\u7528\u7f81\u7eca\u4e4b\u529b\u547c\u5524\u5947\u8ff9\u2026\u2026!",
+    "subtype": "movie",
+    "directors": [
+        {
+            "alt": null,
+            "avatars": null,
+            "name": "\u6b66\u5c45\u6b63\u80fd",
+            "id": null
+        }
+    ],
+    "comments_count": 76,
+    "ratings_count": 170,
+    "aka": [
+        "\u7f57\u5e03\u5965\u7279\u66fc\u5267\u573a\u7248\uff1a\u6289\u62e9\uff01\u7eca\u4e4b\u6c34\u6676"
+    ]
+}
+{
+    "rating": {
+        "max": 10,
+        "average": 8.4,
+        "stars": "45",
+        "min": 0
+    },
+    "reviews_count": 5,
+    "wish_count": 1394,
+    "douban_site": "",
+    "year": "2019",
+    "images": {
+        "small": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2549127933.jpg",
+        "large": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2549127933.jpg",
+        "medium": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2549127933.jpg"
+    },
+    "alt": "https:\/\/movie.douban.com\/subject\/30219655\/",
+    "id": "30219655",
+    "mobile_url": "https:\/\/movie.douban.com\/subject\/30219655\/mobile",
+    "title": "\u540e\u534a\u751f",
+    "do_count": 175,
+    "share_url": "http:\/\/m.douban.com\/movie\/subject\/30219655",
+    "seasons_count": null,
+    "schedule_url": "",
+    "episodes_count": "6",
+    "countries": [
+        "\u82f1\u56fd"
+    ],
+    "genres": [
+        "\u5267\u60c5",
+        "\u559c\u5267"
+    ],
+    "collect_count": 681,
+    "casts": [
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1009297\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p40845.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p40845.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p40845.jpg"
+            },
+            "name": "\u745e\u5947\u00b7\u70ed\u7ef4\u65af",
+            "id": "1009297"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1373214\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1493881783.92.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1493881783.92.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1493881783.92.jpg"
+            },
+            "name": "\u6c64\u59c6\u00b7\u5df4\u65af\u767b",
+            "id": "1373214"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1163221\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p20572.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p20572.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p20572.jpg"
+            },
+            "name": "\u6258\u5c3c\u00b7\u5a01",
+            "id": "1163221"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1376085\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1522983730.81.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1522983730.81.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1522983730.81.jpg"
+            },
+            "name": "\u6234\u5b89\u00b7\u6469\u6839",
+            "id": "1376085"
+        }
+    ],
+    "current_season": null,
+    "original_title": "After Life",
+    "summary": "\u6258\u5c3c\uff08\u745e\u5947\u00b7\u70ed\u7ef4\u65af\u9970\uff09\u539f\u672c\u8fc7\u7740\u5e78\u798f\u7f8e\u6ee1\u7684\u751f\u6d3b\u3002\u4f46\u4ed6\u7684\u59bb\u5b50\u4e3d\u838e\u53bb\u4e16\u540e\uff0c\u6258\u5c3c\u6027\u60c5\u5927\u53d8\u3002\u4ed6\u66fe\u60f3\u7ed3\u675f\u81ea\u5df1\u7684\u751f\u547d\uff0c\u4f46\u6700\u7ec8\u51b3\u5b9a\u8981\u957f\u4e45\u5730\u6d3b\u7740\uff0c\u653e\u7eb5\u81ea\u5df1\uff0c\u8086\u610f\u4efb\u4e3a\uff0c\u501f\u6b64\u60e9\u7f5a\u8fd9\u4e2a\u4e16\u754c\u3002\u4ed6\u8ba4\u4e3a\u81ea\u5df1\u597d\u50cf\u62e5\u6709\u4e00\u79cd\u8d85\u7ea7\u529b\u91cf\uff0c\u4e0d\u518d\u5173\u5fc3\u81ea\u5df1\u6216\u4efb\u4f55\u4eba\u3002\u4f46\u4e8b\u5b9e\u8bc1\u660e\uff0c\u5f53\u6bcf\u4e2a\u4eba\u8bd5\u56fe\u62ef\u6551\u4ed6\u4eec\u66fe\u7ecf\u8ba4\u8bc6\u7684\u597d\u4eba\u65f6\uff0c\u8fd9\u79cd\u529b\u91cf\u77ac\u95f4\u5f31\u5316\u3002\n\u9664\u70ed\u7ef4\u65af\u4e4b\u5916\uff0c\u672c\u7247\u4e3b\u6f14\u8fd8\u6709\u9970\u6f14\u6258\u5c3c\u59bb\u5b50\u4e3d\u838e\u7684\u514b\u91cc\u00b7\u6208\u5fb7\u5229\u66fc\uff08\u300a\u5fb7\u91cc\u514b\u300b\uff09\u3001\u9970\u6f14\u6258\u5c3c\u59b9\u592b\u9a6c\u7279\u7684\u6c64\u59c6\u00b7\u5df4\u65af\u767b\uff08\u300a\u7f57\u9a6c\u4e09\u8d31\u5ba2\u300b\u3001\u300a\u8def\u4e0a\u4eba\u751f\u300b\uff09\u3001\u9970\u6f14\u6258\u5c3c\u597d\u53cb\u5170\u5c3c\u7684\u6258\u5c3c\u00b7\u5a01\uff08\u300a\u660e\u65e5\u8fb9\u7f18\u300b\uff09\u3001\u9970\u6f14\u6258\u5c3c\u7236\u4eb2\u7684\u5927\u536b\u00b7\u5e03\u62c9\u5fb7\u5229\uff08\u300a\u54c8\u5229\u00b7\u6ce2\u7279\u300b\u7cfb\u5217\u7535\u5f71\u3001\u300a\u6743\u5229\u7684\u6e38\u620f\u300b\uff09\u4ee5\u53ca\u9970\u6f14\u6258\u5c3c\u7236\u4eb2\u7684\u62a4\u58eb\u7684\u963f\u4ec0\u5229\u00b7\u8a79\u68ee\uff08\u300a\u4e34\u65f6\u6f14\u5458\u300b\uff09\u3002\n\u5176\u4ed6\u4e3b\u6f14\u8fd8\u6709\u4f69\u5185\u6d1b\u666e\u00b7\u5a01\u5c14\u987f\uff08\u300a\u5510\u987f\u5e84\u56ed\u300b\u3001\u300a\u795e\u79d8\u535a\u58eb\u300b\uff09\u3001\u5927\u536b\u00b7\u5384\u5c14\uff08\u300a\u9675\u56ed\u8def\u53e3\u300b\u3001\u300a\u5fb7\u91cc\u514b\u300b\uff09\u3001\u4e54\u00b7\u5a01\u5c14\u91d1\u68ee\uff08\u300a\u4ed6\u548c\u5979\u300b\uff09\u3001\u514b\u91cc\u00b7\u6208\u5fb7\u5229\u66fc\uff08\u300a\u5fb7\u91cc\u514b\u300b\uff09\u3001\u66fc\u8482\u666e\u00b7\u8fea\u4f26\u3001\u4e54\u00b7\u54c8\u7279\u5229\u3001\u9c81\u74e6\u68ee\u00b7\u79d1\u7eb3\u8482\u3001\u8482\u59c6\u00b7\u666e\u83b1\u65af\u7279\u548c\u9edb\u5b89\u00b7\u6469\u6839\uff08\u300a\u8def\u4e0a\u4eba\u751f\u300b\uff09\u3002\n\u300a\u540e\u534a\u751f\u300b\u662f Derek Productions \u63a8\u51fa\u7684 Netflix \u539f\u521b\u5267\u96c6\u3002\u8fd9\u90e8\u516d\u96c6\u7cfb\u5217\u5267\u7531\u745e\u5947\u00b7\u70ed\u7ef4\u65af\u62c5\u4efb\u521b\u5267\u4eba\u3001\u7f16\u5267\u548c\u5bfc\u6f14\u3002\u67e5\u7406\u00b7\u6c49\u68ee\u62c5\u4efb\u5236\u7247\u4eba\uff0c\u745e\u5947\u00b7\u70ed\u7ef4\u65af\u548c\u9093\u80af\u00b7\u6d77\u8036\u65af\u62c5\u4efb\u76d1\u5236\u3002",
+    "subtype": "tv",
+    "directors": [
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1009297\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p40845.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p40845.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p40845.jpg"
+            },
+            "name": "\u745e\u5947\u00b7\u70ed\u7ef4\u65af",
+            "id": "1009297"
+        }
+    ],
+    "comments_count": 230,
+    "ratings_count": 682,
+    "aka": [
+        "\u540e\u8865\u4eba\u751f(\u6e2f)",
+        "\u7ec8\u6781\u540e\u4eba\u751f(\u53f0)",
+        "\u8eab\u540e\u4e8b"
+    ]
+}
+{
+    "rating": {
+        "max": 10,
+        "average": 6.9,
+        "stars": "35",
+        "min": 0
+    },
+    "reviews_count": 7,
+    "wish_count": 603,
+    "douban_site": "",
+    "year": "2019",
+    "images": {
+        "small": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2547858421.jpg",
+        "large": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2547858421.jpg",
+        "medium": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2547858421.jpg"
+    },
+    "alt": "https:\/\/movie.douban.com\/subject\/30384356\/",
+    "id": "30384356",
+    "mobile_url": "https:\/\/movie.douban.com\/subject\/30384356\/mobile",
+    "title": "\u54c8\u54c8\u519c\u592b",
+    "do_count": 761,
+    "share_url": "http:\/\/m.douban.com\/movie\/subject\/30384356",
+    "seasons_count": null,
+    "schedule_url": "",
+    "episodes_count": "12",
+    "countries": [
+        "\u4e2d\u56fd\u5927\u9646"
+    ],
+    "genres": [
+        "\u771f\u4eba\u79c0"
+    ],
+    "collect_count": 1309,
+    "casts": [
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1339808\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1535447147.41.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1535447147.41.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1535447147.41.jpg"
+            },
+            "name": "\u738b\u6e90",
+            "id": "1339808"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1276135\/",
+            "avatars": {
+                "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1357721264.37.jpg",
+                "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1357721264.37.jpg",
+                "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1357721264.37.jpg"
+            },
+            "name": "\u8d3e\u4e43\u4eae",
+            "id": "1276135"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1392263\/",
+            "avatars": {
+                "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pS6zNbxvWhnUcel_avatar_uploaded1525276127.76.jpg",
+                "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pS6zNbxvWhnUcel_avatar_uploaded1525276127.76.jpg",
+                "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pS6zNbxvWhnUcel_avatar_uploaded1525276127.76.jpg"
+            },
+            "name": "\u6768\u8d85\u8d8a",
+            "id": "1392263"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1375014\/",
+            "avatars": {
+                "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pzwGKRIwQ5nccel_avatar_uploaded1496335284.77.jpg",
+                "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pzwGKRIwQ5nccel_avatar_uploaded1496335284.77.jpg",
+                "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/pzwGKRIwQ5nccel_avatar_uploaded1496335284.77.jpg"
+            },
+            "name": "\u91d1\u701a",
+            "id": "1375014"
+        }
+    ],
+    "current_season": null,
+    "original_title": "\u54c8\u54c8\u519c\u592b",
+    "summary": "\u300a\u54c8\u54c8\u519c\u592b\u300b\u662f\u8292\u679cTV\u9996\u6863\u6c89\u6d78\u5f0f\u4e61\u6751\u4eba\u6587\u4f53\u9a8c\u771f\u4eba\u79c0\uff0c\u8282\u76ee\u5609\u5bbe\u56e2\u5c06\u7531\u738b\u6e90\u3001\u8d3e\u4e43\u4eae\u3001\u6768\u8d85\u8d8a\u3001\u91d1\u701a\u4f5c\u4e3a\u56fa\u5b9a\u5609\u5bbe\u7ec4\u6210\u201c\u54c8\u54c8\u5bb6\u65cf\u201d\uff0c\u98de\u884c\u5609\u5bbe\u4f5c\u4e3a\u201c\u8001\u5bb6\u4eb2\u621a\u201d\uff0c\u5171\u540c\u53bb\u5230\u5c71\u5ddd\u91cc\u3001\u6cb3\u6d77\u8fb9\u7684\u6751\u843d\uff0c\u5728\u201c\u54c8\u54c8\u4e4b\u5bb6\u201d\u751f\u6d3b\u3002\u4ed6\u4eec\u5c06\u987a\u5e94\u519c\u6751\u7684\u751f\u6d3b\u3001\u8015\u79cd\u4f5c\u606f\uff0c\u771f\u5b9e\u4f53\u9a8c\u6e14\u592b\u3001\u7267\u6c11\u3001\u679c\u519c\u7b49\u5404\u8272\u201c\u54c8\u54c8\u519c\u592b\u201d\u7684\u751f\u6d3b\u72b6\u6001\u3002",
+    "subtype": "tv",
+    "directors": [
+        {
+            "alt": null,
+            "avatars": null,
+            "name": "\u5434\u96ef",
+            "id": null
+        },
+        {
+            "alt": null,
+            "avatars": null,
+            "name": "\u80e1\u5803",
+            "id": null
+        }
+    ],
+    "comments_count": 546,
+    "ratings_count": 1870,
+    "aka": [
+        "\u6469\u767b\u519c\u592b"
+    ]
+}
+{
+    "rating": {
+        "max": 10,
+        "average": 7.0,
+        "stars": "35",
+        "min": 0
+    },
+    "reviews_count": 1207,
+    "wish_count": 116935,
+    "douban_site": "",
+    "year": "2019",
+    "images": {
+        "small": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2548870813.jpg",
+        "large": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2548870813.jpg",
+        "medium": "http://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2548870813.jpg"
+    },
+    "alt": "https:\/\/movie.douban.com\/subject\/26213252\/",
+    "id": "26213252",
+    "mobile_url": "https:\/\/movie.douban.com\/subject\/26213252\/mobile",
+    "title": "\u60ca\u5947\u961f\u957f",
+    "do_count": null,
+    "share_url": "http:\/\/m.douban.com\/movie\/subject\/26213252",
+    "seasons_count": null,
+    "schedule_url": "https:\/\/movie.douban.com\/subject\/26213252\/cinema\/",
+    "episodes_count": null,
+    "countries": [
+        "\u7f8e\u56fd"
+    ],
+    "genres": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ],
+    "collect_count": 247828,
+    "casts": [
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1027194\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1392029372.12.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1392029372.12.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1392029372.12.jpg"
+            },
+            "name": "\u5e03\u4e3d\u00b7\u62c9\u5c14\u68ee",
+            "id": "1027194"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1010510\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4952.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4952.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4952.jpg"
+            },
+            "name": "\u88d8\u5fb7\u00b7\u6d1b",
+            "id": "1010510"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1054408\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1365913316.45.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1365913316.45.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1365913316.45.jpg"
+            },
+            "name": "\u585e\u7f2a\u5c14\u00b7\u6770\u514b\u900a",
+            "id": "1054408"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1000248\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5681.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5681.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5681.jpg"
+            },
+            "name": "\u672c\u00b7\u95e8\u5fb7\u5c14\u68ee",
+            "id": "1000248"
+        }
+    ],
+    "current_season": null,
+    "original_title": "Captain Marvel",
+    "summary": "\u6f2b\u753b\u4e2d\u7684\u521d\u4ee3\u201c\u60ca\u5947\u5973\u58eb\u201d\u539f\u540dCarol Danvers\uff0c\u5979\u66fe\u7ecf\u662f\u4e00\u540d\u7f8e\u56fd\u7a7a\u519b\u60c5\u62a5\u5c40\u63a2\u5458\uff0c\u6697\u604b\u60ca\u5947\u5148\u751f\u3002\u6b64\u540e\u5979\u5f97\u5230\u4e86\u8d85\u80fd\u529b\uff0c\u6210\u4e3a\u201c\u60ca\u5947\u5973\u58eb\u201d\uff0c\u5728\u6f2b\u753b\u4e2d\u662f\u975e\u5e38\u5178\u578b\u7684\u5973\u6027\u82f1\u96c4\u4eba\u7269\u3002\n\u5979\u53ef\u4ee5\u5438\u6536\u5e76\u63a7\u5236\u4efb\u610f\u5f62\u6001\u7684\u80fd\u91cf\uff0c\u62e5\u6709\u4f17\u591a\u8d85\u80fd\u529b\u3002\u300a\u60ca\u5947\u961f\u957f\u300b\u5c06\u662f\u6f2b\u5a01\u9996\u90e8\u4ee5\u5973\u6027\u8d85\u7ea7\u82f1\u96c4\u4e3a\u4e3b\u89d2\u7684\u7535\u5f71\u3002",
+    "subtype": "movie",
+    "directors": [
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1306067\/",
+            "avatars": {
+                "small": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1550139338.75.jpg",
+                "large": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1550139338.75.jpg",
+                "medium": "http://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1550139338.75.jpg"
+            },
+            "name": "\u5b89\u5a1c\u00b7\u6ce2\u987f",
+            "id": "1306067"
+        },
+        {
+            "alt": "https:\/\/movie.douban.com\/celebrity\/1050201\/",
+            "avatars": {
+                "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1550139655.99.jpg",
+                "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1550139655.99.jpg",
+                "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1550139655.99.jpg"
+            },
+            "name": "\u745e\u5b89\u00b7\u5f17\u96f7\u514b",
+            "id": "1050201"
+        }
+    ],
+    "comments_count": 81660,
+    "ratings_count": 223798,
+    "aka": [
+        "Marvel\u961f\u957f(\u6e2f)",
+        "\u6f2b\u5a01\u961f\u957f",
+        "\u60ca\u5947\u5973\u58eb"
+    ]
+}
+PS D:\Documents\web\Node\douban-trailer\server\tasks>

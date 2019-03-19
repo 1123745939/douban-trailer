@@ -12,6 +12,8 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "koa": "^2.7.0",
-    "puppeteer": "^1.13.0"
+    "puppeteer": "^1.13.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
   }
 }
