@@ -27,7 +27,10 @@ const sleep = time =>
     var it = $('.related-pic-video')
     if (it && it.length > 0) {
       var link = it.attr('href')
-      var cover = it.find('img').attr('src')
+      var cover = it
+        .css('backgroundImage')
+        .replace('url(', '')
+        .replace(')', '')
       return {
         link,
         cover

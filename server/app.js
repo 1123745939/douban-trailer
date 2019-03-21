@@ -1,10 +1,28 @@
 const Koa = require('koa')
-const app = new Koa()
+const { connect, initSchema } = require('./dataBase/init')
+const { resolve } = require('path')
+const R = require('ramda')
+const MIDDLEWARES = ['router']
 
-app.use(async (ctx, next) => {
-  ctx.body = 'home'
-})
+const useMiddlewares = app => {
+  R.map(
+    R.compose(
+      R.forEachObjIndexed(initWith => initWith(app)),
+      require,
+      name => resolve(__dirname, `middlewares/${name}`)
+    )
+  )(MIDDLEWARES)
+}
 
-app.listen(3000, () => {
-  console.log('server is running on http://localhost:3000/')
-})
+;(async () => {
+  // 连接数据库并初始化
+  await connect()
+  initSchema()
+
+  const app = new Koa()
+  await useMiddlewares(app)
+
+  app.listen(3000, () => {
+    console.log('server is running on http://localhost:3000/')
+  })
+})()

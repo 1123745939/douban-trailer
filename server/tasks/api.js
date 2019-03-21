@@ -1,52 +1,84 @@
 const rp = require('request-promise-native')
-const { resolve } = require('path')
+const mongoose = require('mongoose')
+const Movie = mongoose.model('Movie')
+const Categroy = mongoose.model('Categroy')
 
 async function fetchMovie(item) {
   const url = `http://api.douban.com/v2/movie/subject/${item.doubanId}`
   const res = await rp(url)
-  return res
+  let body
+  try {
+    body = JSON.parse(res)
+  } catch (error) {
+    console.log(error)
+  }
+  return body
 }
 
 ;(async () => {
-  let movies = [
-    {
-      doubanId: 30219655,
-      title: '后半生',
-      rate: 8.4,
-      poster:
-        'https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2549127933.jpg'
-    },
-    {
-      doubanId: 26213252,
-      title: '惊奇队长',
-      rate: 7,
-      poster:
-        'https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2548870813.jpg'
-    },
-    {
-      doubanId: 30384356,
-      title: '哈哈农夫',
-      rate: 6.9,
-      poster:
-        'https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2547858421.jpg'
-    },
-    {
-      doubanId: 30412189,
-      title: '罗布奥特曼剧场版：决定了！羁绊的水晶',
-      rate: 6.3,
-      poster:
-        'https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2545880275.jpg'
-    }
-  ]
-  movies.map(async movie => {
-    let movieData = await fetchMovie(movie)
-
-    try {
-      movieData = JSON.parse(movieData)
-      console.log(movieData.title)
-      console.log(movieData.summary)
-    } catch (error) {
-      console.log(error)
-    }
+  let movies = await Movie.find({
+    $or: [
+      {
+        summary: { $exists: false }
+      },
+      { summary: null },
+      { summary: '' },
+      { title: '' }
+    ]
   })
+  for (let i = 0; i < movies.length; i++) {
+    let movie = movies[i]
+    let movieData = await fetchMovie(movie)
+    if (movieData) {
+      // 又名
+      let tags = movieData.aka || ''
+      movie.tags = movie.tags || []
+      // 遍历推入电影又名
+      if (tags) {
+        tags.forEach(item => {
+          movie.tags.push(item)
+        })
+      }
+      // 剧情简介
+      movie.summary = movieData.summary || ''
+      // 电影名称
+      movie.title = movieData.title || ''
+      // 电影原名
+      movie.rawTitle = movieData.original_title || movieData.title || ''
+      // 上映年份
+      movie.year = movieData.year || ''
+      // 电影分类DR
+      movie.categroy = movieData.categroy || []
+      // 电影分类
+      movie.movieTypes = movieData.genres || []
+      // 遍历保存电影分类表
+      for (let i = 0; i < movie.movieTypes.length; i++) {
+        let item = movie.movieTypes[i]
+        let cat = await Categroy.findOne({
+          name: item
+        })
+        if (!cat) {
+          cat = new Categroy({
+            name: item,
+            movies: [movie._id]
+          })
+        } else {
+          if (cat.movies.indexOf(movie._id) === -1) {
+            cat.movies.push(movie._id)
+          }
+        }
+        await cat.save()
+        // 分类指向
+        if (!movie.categroy) {
+          movie.categroy.push(cat._id)
+        } else {
+          if (movie.categroy.indexOf(cat._id) === -1) {
+            movie.categroy.push(cat._id)
+          }
+        }
+      }
+      // 保存电影详细信息
+      await movie.save()
+    }
+  }
 })()
