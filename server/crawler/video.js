@@ -1,8 +1,7 @@
 const puppeteer = require('puppeteer')
-
+console.log(process.argv0)
 const base = `https://movie.douban.com/subject/`
-const doubanId = '26213252'
-const videoBase = `https://movie.douban.com/trailer/242484/`
+const doubanId = process.argv0
 const sleep = time =>
   new Promise(resolve => {
     setTimeout(resolve, time)
@@ -29,8 +28,8 @@ const sleep = time =>
       var link = it.attr('href')
       var cover = it
         .css('backgroundImage')
-        .replace('url(', '')
-        .replace(')', '')
+        .replace('url("', '')
+        .replace('")', '')
       return {
         link,
         cover

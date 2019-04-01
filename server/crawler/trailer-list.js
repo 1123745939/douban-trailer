@@ -6,7 +6,7 @@ const sleep = time =>
     setTimeout(resolve, time)
   })
 ;(async () => {
-  console.log('Start visit the target page')
+  console.log('Start visit the movie-list page')
 
   const browser = await puppeteer.launch({
     args: ['--no-sandbox'],

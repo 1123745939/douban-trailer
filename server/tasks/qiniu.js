@@ -21,17 +21,9 @@ const uploadToQiniu = async function(key, url) {
     })
   })
 }
-
-;(async () => {
-  let movies = [
-    {
-      video:
-        'http://vt1.doubanio.com/201903200940/18715d38918840d44e61383b4fac3b21/view/movie/M/402420484.mp4',
-      doubanId: '26213252',
-      cover: 'http://img1.doubanio.com/img/trailer/medium/2546376528.jpg?'
-    }
-  ]
-  movies.map(async movie => {
+module.exports = movie => {
+  return new Promise(async (resolve, reject) => {
+    console.log(movie)
     if (movie.video && !movie.key) {
       try {
         console.log('开始传video')
@@ -45,10 +37,11 @@ const uploadToQiniu = async function(key, url) {
         if (coverData.data.key) {
           movie.coverKey = coverData.data.key
         }
-        console.log(movie)
+        resolve(movie)
       } catch (err) {
         console.log(err)
+        reject(err)
       }
     }
   })
-})()
+}
